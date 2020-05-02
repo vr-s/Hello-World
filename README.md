@@ -1,2 +1,2 @@
-# Hello World
- First reposity in GitHub
+# Olá, Mundo
+ Repositório de teste para o curso de Git e GitHub.
